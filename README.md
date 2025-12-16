@@ -62,7 +62,7 @@
 <div align="center">
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajkoli145&theme=react-dark" alt="TEJAS CHAVAN's Contribution Graph" width="900">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajkoli145&theme=react-dark" alt="Tejas chavan's Contribution Graph" width="900">
 </a>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rajkoli145&theme=solarized)
@@ -73,5 +73,6 @@
 </div>
 
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amankoli0" alt="TEJAS CHAVAN" /></a></p>
+# 2025tejasc-ctrl
 # 2025tejasc-ctrl
 # 2025tejasc-ctrl
